@@ -1,6 +1,17 @@
-var contador = 1
+var c = 1 
+do{
+    console.log(`Passo ${c}`)
+    c++
+}while (c <= 20)
 
-while (contador <= 100000000000){
-    console.log('OI')
-    contador++
-}
+
+ 
+
+
+
+
+/*var c = 1 
+while (c <= 20){
+    console.log(`Passo ${c}`)
+    c++
+}*/
